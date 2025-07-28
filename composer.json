@@ -1,5 +1,5 @@
 {
-	"name": "web-weber/microsoft-graph",
+	"name": "web-weber/msgraph-sdk-php",
 	"type": "library",
 	"description": "The Microsoft Graph SDK for PHP",
 	"homepage": "https://developer.microsoft.com/en-us/graph",
